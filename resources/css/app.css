@@ -1,0 +1,29 @@
+.btn-custom-primary {
+    background-color: #28a745; /* Color de fondo */
+    color: white; /* Color del texto */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn-custom-primary:hover {
+    background-color: #218838; /* Color de fondo al pasar el ratón */
+}
+
+/* Estilo personalizado para el botón de regresar */
+.btn-custom-secondary {
+    background-color: #6c757d; /* Color de fondo */
+    color: white; /* Color del texto */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-left: 10px; /* Espacio entre los botones */
+}
+
+.btn-custom-secondary:hover {
+    background-color: #5a6268; /* Color de fondo al pasar el ratón */
+}
